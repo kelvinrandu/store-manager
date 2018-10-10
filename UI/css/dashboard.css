@@ -146,6 +146,17 @@ body{
     padding-right:20px;
     color:#ffffff;
   }
+  .button_3{
+    height:38px;
+    background:#4D394B;
+    border:0;
+    align-items: center;
+    margin-left: 50%;
+    margin-top: 20px;
+    padding-left: 20px; 
+    padding-right:20px;
+    color:#ffffff;
+  }
   .sales-left{
   float: right;
   margin-right: 20px;
