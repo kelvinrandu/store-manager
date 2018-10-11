@@ -22,7 +22,8 @@ The Admins have the priviledge to do the following:
 ## LINK TO PIVOTAL TRACKER STORIES
 - https://www.pivotaltracker.com/n/projects/2202884
 ## LINK TO LIVE SITE
-- https://kelvinrandu.github.io/store-manager/UI/
+-  https://kelvinrandu.github.io/store-manager/UI/
+
 - admin dashboard https://kelvinrandu.github.io/store-manager/UI/pages/admin-dashboard.html
 ## BUILT WITH
 - html
@@ -34,8 +35,7 @@ The Admins have the priviledge to do the following:
 - Click on the index.html file
 - Enjoy 
 The site runs on any browser but for an euphoric user experience chrome browser is recommended 
-## LINK TO LIVE SITE
-https://kelvinrandu.github.io/store-manager/UI/index.html
+## LINK TO INDIVIDUAL PAGES
 ### login page
 https://kelvinrandu.github.io/store-manager/UI/index.html
 
