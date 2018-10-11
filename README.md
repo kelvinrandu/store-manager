@@ -34,9 +34,26 @@ The Admins have the priviledge to do the following:
 - Click on the index.html file
 - Enjoy 
 The site runs on any browser but for an euphoric user experience chrome browser is recommended 
-## SCREENSHOTS
+## LINK TO LIVE SITE
+https://kelvinrandu.github.io/store-manager/UI/index.html
 ### login page
-https://user-images.githubusercontent.com/22809944/46739282-d8e10e00-cca8-11e8-8d2c-c39d0d7bebe7.png
+https://kelvinrandu.github.io/store-manager/UI/index.html
+
+### attendant dashboard
+https://kelvinrandu.github.io/store-manager/UI/pages/dashboard.html
+### attendant shopping cart
+https://kelvinrandu.github.io/store-manager/UI/pages/shopping-cart.html
+
+
+
+### admin dashboard
+https://kelvinrandu.github.io/store-manager/UI/pages/admin-dashboard.html
+### admin view all sales according to attendants
+https://kelvinrandu.github.io/store-manager/UI/pages/admin-view-attendants.html
+### admin view each attendant sale record
+https://kelvinrandu.github.io/store-manager/UI/pages/admin-view-each.html
+### admin view/modify product
+https://kelvinrandu.github.io/store-manager/UI/pages/admin-view-product.html
 
 
 
